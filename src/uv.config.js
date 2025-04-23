@@ -8,4 +8,5 @@ self.__uv$config = {
 	bundle: "/uv.bundle.js",
 	config: "/uv.config.js",
 	sw: "/uv.sw.js",
+	bare: "https://my-study.billto1309.workers.dev"
 };
